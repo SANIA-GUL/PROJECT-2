@@ -3,7 +3,7 @@ MESSL with SPAT COVAR
 Dr. Salman spatial covariance model without video
 set angle in line#59 from 1 to 10.
 Set angle in line #780 of messl_salman_spatcov.m as per the settings of Main.m 
-Run Main.m in D+D folder
+Run Main.m in D+D folder.
 
 
 
